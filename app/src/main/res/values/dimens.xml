@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_top_margin">16dp</dimen>
+    <dimen name="default_bottom_margin">16dp</dimen>
+    <dimen name="default_right_margin">8dp</dimen>
+    <dimen name="default_left_margin">8dp</dimen>
+
+
+    <dimen name="iv_classified_thumbnail_width">150dp</dimen>
+    <dimen name="iv_classified_thumbnail_height">150dp</dimen>
+
+
+    <!-- HEADING -->
+    <dimen name="tv_heading_1">32dp</dimen>
+    <dimen name="tv_heading_2">28dp</dimen>
+    <dimen name="tv_heading_3">24dp</dimen>
+
+
+    <!-- Normal text -->
+    <dimen name="tv_normal_1">22dp</dimen>
+    <dimen name="tv_normal_2">18dp</dimen>
+    <dimen name="tv_normal_3">14dp</dimen>
+
+</resources>

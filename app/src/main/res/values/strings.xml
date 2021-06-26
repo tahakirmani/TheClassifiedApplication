@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Classified App</string>
+
+    <string name="added_on">Added On: </string>
+    <string name="home_header_text">The Classified Application</string>
+
+
+    <!-- ERROR MESSAGES -->
+    <string name="error_classified_feed">Something went wrong, Please try again.</string>
+    <string name="no_internet_connection">Verify that you are connected to Wi-Fi or your mobile data network.</string>
+
+</resources>
